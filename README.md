@@ -1,4 +1,5 @@
 # VoxelRacing
+![Main menu](https://github.com/zyumzik/VoxelRacing/blob/main/mm.jpg)
   Hi! This is my first game made on Unity. I've never loved racing games, but really enjoyed casual mobile games like 'Crossy Road', so wanted to make my own casual 
 voxel race. By the way, as you can see, graphics I painted a bit similar to 'Crossy Road', especially colour palette. That was my first project, so take care of your
 eyes while reading).
@@ -12,7 +13,6 @@ Addition hearts can be found on roads, like coins.
 
   P.S. My record is 23.57! Will you beat it?
 
-![Main menu](https://github.com/zyumzik/VoxelRacing/blob/main/mm.jpg)
 ![Race gameplay](https://github.com/zyumzik/VoxelRacing/blob/main/rg1.jpg)
 ![Race gameplay](https://github.com/zyumzik/VoxelRacing/blob/main/rg2.jpg)
 ![Race gameplay](https://github.com/zyumzik/VoxelRacing/blob/main/rg3.jpg)
